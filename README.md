@@ -5,14 +5,14 @@ A simple local Retrieval-Augmented Generation (RAG) system built with Python, Ch
 ## Project Structure
 
 rag-system/
-├── data/
-│   └── demo_data.md
-├── requirements.txt
-└── src/
-    ├── chunker.py
-    ├── embedder.py
-    ├── generator.py
-    └── retriever.py
+- `data/`
+  - `demo_data.md`
+- `requirements.txt`
+- `src/`
+  - `chunker.py`
+  - `embedder.py`
+  - `generator.py`
+  - `retriever.py`
 
 ## How It Works
 
